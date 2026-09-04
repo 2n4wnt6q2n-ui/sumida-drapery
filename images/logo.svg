@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Sumida Drapery by Angel">
+  <rect width="512" height="512" fill="#000"/>
+  <g fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round">
+    <line x1="176" y1="168" x2="336" y2="168"/>
+    <circle cx="176" cy="168" r="5" fill="#fff" stroke="none"/>
+    <circle cx="336" cy="168" r="5" fill="#fff" stroke="none"/>
+  </g>
+  <path fill="#fff" d="M186 176h62c-8 28-10 58-8 92 2 28 10 52 22 74H198c-8-22-16-50-18-82-2-28 0-56 6-84z"/>
+  <path fill="#fff" d="M326 176h-62c8 28 10 58 8 92-2 28-10 52-22 74h64c8-22 16-50 18-82 2-28 0-56-6-84z"/>
+  <circle cx="118" cy="268" r="11" fill="#fff"/>
+  <circle cx="394" cy="268" r="11" fill="#fff"/>
+  <defs>
+    <path id="topArc" d="M96,268 A160,160 0 0,1 416,268"/>
+    <path id="botArc" d="M400,300 A150,150 0 0,1 112,300"/>
+  </defs>
+  <text fill="#fff" font-family="Quicksand, Segoe UI, sans-serif" font-size="34" font-weight="500" letter-spacing="4">
+    <textPath href="#topArc" startOffset="50%" text-anchor="middle">Sumida Drapery</textPath>
+  </text>
+  <text fill="#fff" font-family="Quicksand, Segoe UI, sans-serif" font-size="34" font-weight="500" letter-spacing="10">
+    <textPath href="#botArc" startOffset="50%" text-anchor="middle">By Angel</textPath>
+  </text>
+</svg>
